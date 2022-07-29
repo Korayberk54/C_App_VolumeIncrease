@@ -2,10 +2,9 @@
 
 This App modifies the volume of an audio file. 
 
-*Example;
+*Example;*
 
-  Usage: ./volume input.wav output.wav factor
- *
+  *Usage: ./volume input.wav output.wav factor*
  
 It takes 3 command line arguments:
 
