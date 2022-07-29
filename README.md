@@ -11,3 +11,5 @@ It takes 3 command line arguments:
 First one is the name of your input audio file name.
 Second one is the desired name of your output audio file name.
 Third one is the factor which multiplied by the actual volume of the original file to increase it.
+
+*Caution: Factor being bigger than 3 might be dangerious!*
